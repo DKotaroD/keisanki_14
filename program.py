@@ -1,4 +1,4 @@
-def has99(x):
+def has99arunokana(x):
     num = []
     for i in enumerate(x):
         if i[1] == 9:
